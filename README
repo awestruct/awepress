@@ -1,0 +1,6 @@
+This repository will contain awestruct extensions to use in your application. The easiest way to use 
+these will be to add:
+
+    gem 'awestruct-extensions', :git => 'https://github.com/awestruct/awestruct-extensions.git'
+
+to your Gemfile and use [Bundler](http://gembundler.com) to manage your dependencies.
